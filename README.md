@@ -27,6 +27,6 @@ Thank you for visiting my GitHub profile! I hope you find my projects and contri
 <div align="center">
 <a href="https://github.com/AngleSad">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AngleSad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngleSad&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngleSad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
