@@ -10,11 +10,8 @@ Welcome to my GitHub profile! I'm an enthusiastic programmer with a passion for 
 ## 🚀 MY SKILLS
 
 💼 **Web Development**: HTML, CSS, JavaScript, React.
-
 📱 **Mobile Development**: Android (Java, Kotlin), React Native.
-
 🪙 **Databases**: MySQL, Firebase.
-
 🛠️ **Tools**: Git, Visual Studio Code, Android Studio, WordPress.
 
 ## 🙏RECOGNITION
