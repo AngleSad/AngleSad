@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Angle 👋
 
-<!--
-**AngleSad/AngleSad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an enthusiastic programmer with a passion for software development and creating applications.
 
-Here are some ideas to get you started:
+## 💼 ABOUT ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Developer with experience in various areas of software development.
+📱 Specialized in mobile application development.
+
+## 🚀 MY SKILLS
+
+💼 **Web Development**: HTML, CSS, JavaScript, React.
+
+📱 **Mobile Development**: Android (Java, Kotlin), React Native.
+
+🪙 **Databases**: MySQL, Firebase.
+
+🛠️ **Tools**: Git, Visual Studio Code, Android Studio, WordPress.
+
+## 🙏RECOGNITION
+
+Thank you for visiting my GitHub profile! I hope you find my projects and contributions interesting. I'm always eager to learn and grow as a developer, so I appreciate any feedback or suggestions.
+
+## ⚙️ ANALYTICS
+
+<p align="center">
+<a href="https://github.com/AngleSad">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AngleSad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngleSad&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
