@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm an enthusiastic programmer with a passion for 
 ## 💼 ABOUT ME
 
 💻 Developer with experience in various areas of software development.
+
 📱 Specialized in mobile application development.
 
 ## 🚀 MY SKILLS
@@ -23,9 +24,9 @@ Thank you for visiting my GitHub profile! I hope you find my projects and contri
 
 ## ⚙️ ANALYTICS
 
-<p align="center" flex>
+<div align="center">
 <a href="https://github.com/AngleSad">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AngleSad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngleSad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</div>
